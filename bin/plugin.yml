@@ -1,0 +1,10 @@
+name: AP_RgOwner
+version: 1.0.0
+description: Tells user what Regions they are a owner of.
+author: "Emily, Uni"
+main: RgOwnerUni.rgowner
+commands:
+    rgowner:
+        description: List's all regions you are a owner of.
+        aliases: listmyregions
+     
